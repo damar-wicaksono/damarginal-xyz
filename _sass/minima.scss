@@ -29,6 +29,10 @@ $on-laptop:        800px !default;
 $on-medium:        $on-palm !default;
 $on-large:         $on-laptop !default;
 
+// Some colors
+$clemson-purple:   #522d80;
+$clemson-orange:   #f66733;
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {
