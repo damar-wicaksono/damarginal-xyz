@@ -46,8 +46,8 @@ header_pages:
  - cv.html
  - about.md
 
-cv_style: davewhipp
 
+# Markdown style
 markdown: kramdown
 
 # Build settings
