@@ -8,8 +8,6 @@
 layout: default
 ---
 
+# Hi
 	
-# Welcome
-	
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.</p>
-
+This is my personal website, where I can put and find my notes I've collected along the way for quick reference. If you somehow find any of them useful, then I'll be quite happy. I am currently a postdoctoral research fellow at the Chair of Risk Safety, and Uncertainty Quantification of the Swiss Federal Institute of Technology, Zurich (ETHZ).
