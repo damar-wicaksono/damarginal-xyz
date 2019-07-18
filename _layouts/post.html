@@ -11,7 +11,13 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }} </span></span>
+      {%- endif -%}
+      {%- if page.categories -%}
+        • <span>{{ page.categories[0] | escape }} </span>
+      {%- endif -%}
+      {%- if page.tags -%}
+        • {{ page.tags | array_to_sentence_string: ' ' }}
       {%- endif -%}</p>
   </header>
 
