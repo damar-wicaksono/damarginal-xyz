@@ -3,7 +3,8 @@ layout: post
 title: "What is this all about?"
 categories: Blog
 author: "Damar"
-meta: "Springfield"
+categories: blog
+tags: [random-musing]
 ---
 
 So, what is this all about? I've been meaning to create my own web site for some time[^domain]. Yet, it is not as if I have lots, if any for that matter, of things to say. At the same time, I've been writing and collecting notes, long and short, along the way[^work]. Some of them are actually worthy for my own reference that I can go back and look conveniently. Having them published online, I think, fits that convenience bill.
