@@ -36,7 +36,7 @@ My girlfried (at the time, now she's my wife) really put up with my ever worseni
 
 I've sent the thesis to the doctoral school administration of EPFL 
 few of days before Christmas holidays began, the day before the deadline, and the day I'm flying home to Indonesia.
-The impeccable Swiss Post [^SwissPost] was to thank for this.
+I had the impeccable Swiss Post [^SwissPost] to thank for this.
 Speaking of how things are perfectly aligned every once in a while.
 
 I couldn't be happier with the jury composition:
@@ -60,5 +60,5 @@ The dissertation can be found in [Github repository](https://www.github.com/dama
 
 [^once]: Once in a lifetime is enough.
 [^antics]: Thesis writing brings the worse out of people; it's true.
-[^SwissPost]: Though recently, first time after years living in Switzerland, they delivered a half torn letter with apology that it got stuck in a machine. Oh well...
+[^SwissPost]: Though recently, for the first time after years living in Switzerland, they delivered a half torn letter with apology that it got stuck in a machine. Oh well...
 [^Minke]: But an expression I like better is from my native language: "tutup buku" (literally _close a book_), which I first discovered from Pramoedya Ananta Toer's _Anak Semua Bangsa_.
