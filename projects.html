@@ -1,0 +1,23 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
+<ul class="listing">
+    {%- for project in site.projects reversed -%}
+        <li class="listing-item">
+            <a href="{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a>
+            {% assign image = project.images[0] %}
+            {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+            {% if thecycle == 'odd' %}
+              {% assign loc = 'left' %}
+            {% else %}
+              {% assign loc = 'right' %}
+            {% endif %}
+            {% include image-project.html project=project image=image loc=loc %}
+            {{ project.excerpt }}
+        </li>
+        <br clear="all" /> 
+    {% endfor %}
+</ul>
